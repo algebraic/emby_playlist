@@ -21,13 +21,13 @@ http://190.80.3.28/FOX/FOX.isml/index.m3u8
 http://185.246.209.109:8080/NBC/tracks-v1a1/index.m3u8
 #EXTINF:0,NBC 4 New York
 http://23.237.22.82:8086/udp/127.0.0.1:56202
-#EXTINF:-1,NBC 5
+#EXTINF:0,NBC 5
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0,NBC 6
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1,NBC 6 (2)
+#EXTINF:0,NBC 6 (2)
 https://centstreams.ml/nbc.m3u8
 #EXTINF:0,NBC WTVJ Palm Springs
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,NBC (?)
+#EXTINF:0,NBC (?)
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
