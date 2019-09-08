@@ -9,9 +9,9 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
 #EXTINF:0,CBS
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:0,CBS (2)
+#EXTINF:0,CBS 2
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0,CBS (3)
+#EXTINF:0,CBS 3
 http://170.250.96.20:8110/cbs.m3u8
 #EXTINF:0,Fox 5
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
@@ -25,9 +25,9 @@ http://23.237.22.82:8086/udp/127.0.0.1:56202
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0,NBC 6
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:0,NBC 6 (2)
+#EXTINF:0,NBC 6-2
 https://centstreams.ml/nbc.m3u8
 #EXTINF:0,NBC WTVJ Palm Springs
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-#EXTINF:0,NBC (?)
+#EXTINF:0,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
