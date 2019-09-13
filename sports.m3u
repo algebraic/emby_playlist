@@ -17,7 +17,7 @@ http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN News" channel-id="008" tvg-id="257" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/75653057-e1dd-42ec-8fb0-f005260d9bf7_48.png"
 http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports" channel-id="009" tvg-id="34" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/1b297955-1159-4b16-a614-80d8caaf31d8_48.png"
+#EXTINF:-1 tvg-name="Fox Sports" channel-id="009" tvg-id="34" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png"
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&serverSideAds=false
 #EXTINF:-1 tvg-name="FS1 HD 1" channel-id="010" tvg-id="731" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/e67197fb-e869-4eeb-8086-90db0cdd07fa_48.png"
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
