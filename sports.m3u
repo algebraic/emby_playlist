@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NFL Network" channel-id="001" tvg-id="180" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
+#EXTINF:-1 tvg-name="NFL Network 1" channel-id="001" tvg-id="180" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
 http://23.237.22.82:8086/udp/127.0.0.1:56050
+#EXTINF:-1 tvg-name="NFL Network 2" channel-id="001" tvg-id="180" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
+http://thenew.tv:8000/963125478/357951456/5720
 #EXTINF:-1 tvg-name="NFL Redzone 1" channel-id="002" tvg-id="182" tvg-logo="http://logomanager.team-mediaportal.com/Logos/7923b11e-9f59-48d1-b2d1-9293a158fca5.png"
 http://thenew.tv:8000/963125478/357951456/6394
 #EXTINF:-1 tvg-name="NFL Redzone 2" channel-id="003" tvg-id="182" tvg-logo="http://logomanager.team-mediaportal.com/Logos/7923b11e-9f59-48d1-b2d1-9293a158fca5.png"
@@ -11,7 +13,7 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/269
 #EXTINF:-1 tvg-name="ESPN 2" channel-id="006" tvg-id="203" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/28a09180-d5ea-4069-82b6-06ac02fa2cbc_48.png"
 http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN Classic" channel-id="007" tvg-id="000" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/87ef31a5-95d2-4520-9e72-4314b3054254_48.png"
+#EXTINF:-1 tvg-name="ESPN Classic" channel-id="007" tvg-id="000" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/ESPN_CLASSIC_2002.jpg"
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN News" channel-id="008" tvg-id="257" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/75653057-e1dd-42ec-8fb0-f005260d9bf7_48.png"
 http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
@@ -25,7 +27,7 @@ http://162.210.198.17:8080/FOXSPORTS1FHD/tracks-v1a1/mono.m3u8
 http://162.210.198.17:8080/FoxSports2FHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MLB Network" channel-id="013" tvg-id="740" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/1a064e82-b724-4b24-8dfb-25ac1e543265_48.png"
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-name="NBCSN" channel-id="014" tvg-id="68" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/4f44cacf-2024-42aa-b17f-dce07a21c198_48.png"
+#EXTINF:-1 tvg-name="NBCSN" channel-id="014" tvg-id="68" tvg-logo="https://media.nbcnewyork.com/images/652*367/NBCSN.jpg"
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 #EXTINF:-1 tvg-name="NHL NETWORK" channel-id="015" tvg-id="737" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/2c4a38e6-f733-4e1e-87fe-4a128b7f634e_48.png"
 http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
