@@ -7,8 +7,8 @@ http://thenew.tv:8000/963125478/357951456/6394
 http://185.246.209.109:8080/NFL_REDZONE/index.m3u8
 #EXTINF:-1 tvg-name="CBS Sports" channel-id="004" tvg-id="255" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/4e74f603-7871-4aba-98ad-af8a3dbba0b3_48.png"
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-#EXTINF:-1 tvg-name="ESPN" channel-id="005" tvg-id="202" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
-http://185.246.209.109:8080/ESPN/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ESPN?2" channel-id="005" tvg-id="202" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
+http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/269
 #EXTINF:-1 tvg-name="ESPN 2" channel-id="006" tvg-id="203" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/28a09180-d5ea-4069-82b6-06ac02fa2cbc_48.png"
 http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Classic" channel-id="007" tvg-id="000" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/87ef31a5-95d2-4520-9e72-4314b3054254_48.png"
