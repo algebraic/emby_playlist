@@ -1,8 +1,8 @@
 #EXTM3U
 # ### sports channels ### #
-#EXTINF:-1 tvg-name="NFL Network 1" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
+#EXTINF:-1 tvg-name="NFL Network (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
 http://23.237.22.82:8086/udp/127.0.0.1:56050
-#EXTINF:-1 tvg-name="NFL Network 2" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
+#EXTINF:-1 tvg-name="NFL Network (2)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7681418d-65e6-47aa-b798-5237d006b332_48.png"
 http://thenew.tv:8000/963125478/357951456/5720
 #EXTINF:-1 tvg-name="NFL Redzone 1" tvg-logo="http://logomanager.team-mediaportal.com/Logos/7923b11e-9f59-48d1-b2d1-9293a158fca5.png"
 http://thenew.tv:8000/963125478/357951456/6394
@@ -10,7 +10,7 @@ http://thenew.tv:8000/963125478/357951456/6394
 http://185.246.209.109:8080/NFL_REDZONE/index.m3u8
 #EXTINF:-1 tvg-name="CBS Sports" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/4e74f603-7871-4aba-98ad-af8a3dbba0b3_48.png"
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-#EXTINF:-1 tvg-name="ESPN?2" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
 http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/269
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/28a09180-d5ea-4069-82b6-06ac02fa2cbc_48.png"
 http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
@@ -78,8 +78,10 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/2e596de0-d5f0-4078-9786-de14a1db71fc_48.png"
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-name="Bravo" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/51f0ea68-058e-4c9a-8344-a509ef2e3116_48.png"
+
+#EXTINF:-1 tvg-name="Bravo (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/51f0ea68-058e-4c9a-8344-a509ef2e3116_48.png"
 http://161.0.157.7/PLTV/88888888/224/3221226804/index.m3u8
+
 #EXTINF:-1 tvg-name="Cartoon Network (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/66384f30-aacd-49bd-ad0e-5aee46adf28d_48.png"
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network (2)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/66384f30-aacd-49bd-ad0e-5aee46adf28d_48.png"
