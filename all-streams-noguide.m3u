@@ -79,7 +79,7 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/2e596de0-d5f0-4078-9786-de14a1db71fc_48.png"
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-name="Bravo (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/51f0ea68-058e-4c9a-8344-a509ef2e3116_48.png"
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/51f0ea68-058e-4c9a-8344-a509ef2e3116_48.png"
 http://161.0.157.7/PLTV/88888888/224/3221226804/index.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/66384f30-aacd-49bd-ad0e-5aee46adf28d_48.png"
