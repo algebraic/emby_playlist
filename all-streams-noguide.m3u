@@ -70,22 +70,27 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 # ### regular channels ### #
-#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/7f70eba7-4983-4a47-a63d-1c4cd08cc73c_48.png"
+#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png"
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 tvg-name="Animal Planet (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/d1840a78-9df3-4624-b7ba-8e7871bbcea7_48.png"
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png" group-title="National",Adult Swim
+https://adultswimhls-i.akamaihd.net/hls/live/238460-b/adultswim/main/1/master_Layer7.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet (1)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo-880x660.png"
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet (2)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/d1840a78-9df3-4624-b7ba-8e7871bbcea7_48.png"
+#EXTINF:-1 tvg-name="Animal Planet (2)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo-880x660.png"
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/2e596de0-d5f0-4078-9786-de14a1db71fc_48.png"
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://www.pngfind.com/pngs/m/19-197270_boomerang-from-cartoon-network-logos-boomerang-channel-logo.png"
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-name="Bravo" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/51f0ea68-058e-4c9a-8344-a509ef2e3116_48.png"
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="https://pmcvariety.files.wordpress.com/2017/02/bravo-logo.jpg"
 http://161.0.157.7/PLTV/88888888/224/3221226804/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Network (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/66384f30-aacd-49bd-ad0e-5aee46adf28d_48.png"
+#EXTINF:-1 tvg-name="Cartoon Network (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png"
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network (2)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/66384f30-aacd-49bd-ad0e-5aee46adf28d_48.png"
+#EXTINF:-1 tvg-name="Cartoon Network (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png"
 http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="CNN (1)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/a2bc7581-20d4-4531-ad3a-ccd192a8148e_48.png"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=
 #EXTINF:-1 tvg-name="CNN (2)" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/8a90bdfb-d889-41d1-b4e0-bf8b5448b91b_48.png"
@@ -256,7 +261,7 @@ https://api.locastnet.org/api/watch/stream/1109/34/-118/?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/Chicago/WPWR.png" group-title="Local Channels",CW 50 Chicago
 https://api.locastnet.org/api/watch/stream/731/42.0336383/-88.9356512/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
 
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="News",CBS Sports HQ
+#EXTINF:-1 tvg-logo="http://content.sportslogos.net/news/2015/11/cbs-sports-new-logo.jpg" group-title="News",CBS Sports
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="News",InfoWars
@@ -324,9 +329,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 
 #EXTINF:-1 tvg-logo="https://afv.com/wp-content/uploads/2013/10/AFVIcon.png" group-title="National",AFV Clip Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AS_logo.svg/800px-AS_logo.svg.png" group-title="National",Adult Swim
-https://adultswimhls-i.akamaihd.net/hls/live/238460-b/adultswim/main/1/master_Layer7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/01/09/RickMorty2_Marathon_2.jpg" group-title="National",Rick And Morty 24/7
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
