@@ -37,13 +37,13 @@ http://162.210.198.17:8080/FoxSports2FHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png"
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-name="NBC Sports (1)" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg"
+#EXTINF:-1 tvg-name="NBC Sports (1)" tvg-logo="https://flixed.io/wp-content/uploads/2017/11/nbcs_stacked_fc_pos-485x360.png"
 http://23.237.22.82:8086/udp/127.0.0.1:56016
-#EXTINF:-1 tvg-name="NBC Sports (2) (Boston)" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg"
+#EXTINF:-1 tvg-name="NBC Sports (2) (Boston)" tvg-logo="https://flixed.io/wp-content/uploads/2017/11/nbcs_stacked_fc_pos-485x360.png"
 http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
-#EXTINF:-1 tvg-name="NBC Sports (3) (California)" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg"
+#EXTINF:-1 tvg-name="NBC Sports (3) (California)" tvg-logo="https://flixed.io/wp-content/uploads/2017/11/nbcs_stacked_fc_pos-485x360.png"
 http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
-#EXTINF:-1 tvg-name="NBC Sports (4) (Northwest)" tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg"
+#EXTINF:-1 tvg-name="NBC Sports (4) (Northwest)" tvg-logo="https://flixed.io/wp-content/uploads/2017/11/nbcs_stacked_fc_pos-485x360.png"
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
 
 #EXTINF:-1 tvg-name="NHL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg"
@@ -65,17 +65,17 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-name="CBS (1)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
 #EXTINF:-1 tvg-name="CBS (2)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1 tvg-name="CBS (3)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
 http://170.250.96.20:8110/cbs.m3u8
-#EXTINF:-1 tvg-name="CBS (4) (Philadelphia)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (3) (Philadelphia)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
 https://api.locastnet.org/api/watch/stream/557/40/-75/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-#EXTINF:-1 tvg-name="CBS (5) (Los Angeles)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (4) (Los Angeles)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
 https://api.locastnet.org/api/watch/stream/1075/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-#EXTINF:-1 tvg-name="CBS (6) (Sioux Falls)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (5) (Sioux Falls)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
 https://api.locastnet.org/api/watch/stream/1062/43/-97/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-#EXTINF:-1 tvg-name="CBS (7) (Rapid City)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (6) (Rapid City)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
 https://api.locastnet.org/api/watch/stream/1047/44/-103/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
+#EXTINF:-1 tvg-name="CBS (7)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-name="Fox (1)" tvg-logo="https://vignette.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png"
 http://190.80.3.28/FOX/FOX.isml/index.m3u8
