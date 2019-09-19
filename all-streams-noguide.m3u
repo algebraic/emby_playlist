@@ -1,15 +1,15 @@
 #EXTM3U
 # ### sports channels ### #
-#EXTINF:-1 tvg-name="NFL Network (1)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/12/NFL-Network-Logo-1.jpg"
+#EXTINF:-1 tvg-name="NFL Network (1)" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg"
 http://23.237.22.82:8086/udp/127.0.0.1:56050
-#EXTINF:-1 tvg-name="NFL Network (2)" tvg-logo="https://www.thewrap.com/wp-content/uploads/2017/12/NFL-Network-Logo-1.jpg"
+#EXTINF:-1 tvg-name="NFL Network (2)" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/nfl-network-logo-bigger.jpg"
 http://thenew.tv:8000/963125478/357951456/5720
-#EXTINF:-1 tvg-name="NFL Redzone (1)" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2018/09/nfl_red_zone_logo-620x350.jpg"
+#EXTINF:-1 tvg-name="NFL Redzone (1)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/NFL-Redzone.png"
 http://thenew.tv:8000/963125478/357951456/6394
-#EXTINF:-1 tvg-name="NFL Redzone (2)" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2018/09/nfl_red_zone_logo-620x350.jpg"
+#EXTINF:-1 tvg-name="NFL Redzone (2)" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/NFL-Redzone.png"
 http://185.246.209.109:8080/NFL_REDZONE/index.m3u8
 
-#EXTINF:-1 tvg-name="CBS Sports (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/1280px-CBS_Sports_logo.svg.png"
+#EXTINF:-1 tvg-name="CBS Sports (1)" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png"
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
@@ -61,20 +61,19 @@ http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-name="ABC (5)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/f9bd4978-40ec-43f9-b3f9-cb8486a4fe46.png"
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
-# this 1st cbs doesn't want to show up for some reason...
-#EXTINF:-1 tvg-name="CBS (1)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
+#EXTINF:-1 tvg-name="CBS (1)" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg"
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-1 tvg-name="CBS (2)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
+#EXTINF:-1 tvg-name="CBS (2)" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg"
 http://170.250.96.20:8110/cbs.m3u8
-#EXTINF:-1 tvg-name="CBS (3) (Philadelphia)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (3) (Philadelphia)"tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg" 
 https://api.locastnet.org/api/watch/stream/557/40/-75/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-#EXTINF:-1 tvg-name="CBS (4) (Los Angeles)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (4) (Los Angeles)"tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg" 
 https://api.locastnet.org/api/watch/stream/1075/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-#EXTINF:-1 tvg-name="CBS (5) (Sioux Falls)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (5) (Sioux Falls)"tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg" 
 https://api.locastnet.org/api/watch/stream/1062/43/-97/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-#EXTINF:-1 tvg-name="CBS (6) (Rapid City)"tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png" 
+#EXTINF:-1 tvg-name="CBS (6) (Rapid City)"tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg" 
 https://api.locastnet.org/api/watch/stream/1047/44/-103/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-#EXTINF:-1 tvg-name="CBS (7)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/8e17fae4-f8e6-41ba-8785-ed34517da6d5.png"
+#EXTINF:-1 tvg-name="CBS (7)" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg"
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-name="Fox (1)" tvg-logo="https://vignette.wikia.nocookie.net/24wikia/images/a/ac/Fox_logo.png"
@@ -125,7 +124,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet (2)" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo-880x660.png"
 http://80.80.160.168/live/3/live.m3u8
 
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://www.pngfind.com/pngs/m/19-197270_boomerang-from-cartoon-network-logos-boomerang-channel-logo.png"
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-name="Bravo" tvg-logo="https://pmcvariety.files.wordpress.com/2017/02/bravo-logo.jpg"
@@ -136,11 +135,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png"
 http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="CNN (1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png"
+#EXTINF:-1 tvg-name="CNN (1)" tvg-logo="https://www.gannett-cdn.com/-mm-/8d1498353a2b449e6e39522f5a09b94f5cb37b84/c=37-0-683-486/local/-/media/USATODAY/USATODAY/2014/11/10/635512272840848524-b03-CNN-LOGO-NBC-19.jpg"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=
-#EXTINF:-1 tvg-name="CNN (2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png"
+#EXTINF:-1 tvg-name="CNN (2)" tvg-logo="https://www.gannett-cdn.com/-mm-/8d1498353a2b449e6e39522f5a09b94f5cb37b84/c=37-0-683-486/local/-/media/USATODAY/USATODAY/2014/11/10/635512272840848524-b03-CNN-LOGO-NBC-19.jpg"
 http://185.246.209.109:8080/CNN/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="CNN (3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png"
+#EXTINF:-1 tvg-name="CNN (3)" tvg-logo="https://www.gannett-cdn.com/-mm-/8d1498353a2b449e6e39522f5a09b94f5cb37b84/c=37-0-683-486/local/-/media/USATODAY/USATODAY/2014/11/10/635512272840848524-b03-CNN-LOGO-NBC-19.jpg"
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://www.underconsideration.com/brandnew/archives/comedy_central_2018_logo.png"
@@ -166,9 +165,9 @@ https://api.locastnet.org/api/watch/stream/1067/43/-97/?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:-1 tvg-name="CW (7) (Rapid City)" tvg-logo="https://pmcvariety.files.wordpress.com/2016/06/the-cw-logo.jpg"
 https://api.locastnet.org/api/watch/stream/1048/44/-103/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
 
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png"
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png"
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png"
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/disney-junior-png-7.png"
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png"
 http://23.237.22.82:8086/udp/127.0.0.1:56070
@@ -215,7 +214,7 @@ http://185.246.209.109:8080/NICKJR/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=
 #EXTINF:-1 tvg-name="Outdoor" tvg-logo="https://www.pe.com/wp-content/uploads/migration/n21/n219c4-10022121outdoor0507binary1002448.jpg?w=535"
 http://185.246.209.109:8080/OUTDOOR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/79ffe2de-53af-4da3-a4c1-ab24218981cb_48.png"
+#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png"
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 tvg-name="Pop (1)" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/10/Pop-logo-2014.png"
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
@@ -229,11 +228,11 @@ https://live2.hoolatv.com/live/questred_hi/playlist.m3u8
 http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Revolt" tvg-logo="https://images.huffingtonpost.com/2013-12-02-023c990-thumb.png"
 http://185.246.209.109:8080/REVOLT/index.m3u8
-#EXTINF:-1 tvg-name="Science Channel" tvg-logo="https://static1.squarespace.com/static/57e2e8429f74569e7141178a/5b75d4f340ec9ae21260c144/5b75d4fd70a6adbee58fec48/1534454092600/sci2.png"
+#EXTINF:-1 tvg-name="Science Channel" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/04/science-channel-590x283.png"
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png"
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0ODkzNzQ5NTAzMDU4/smithsonian-channel-logojpg.jpg"
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://cdn.imgbin.com/8/6/6/imgbin-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-xAdjcYYwtvstuhYPk0zPWQZPD.jpg"
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="http://playplex.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/spike/images/PN_Social_Share_Slate_011718.jpg"
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&appName=web
 #EXTINF:-1 tvg-name="Sundance" tvg-logo="https://pmcvariety.files.wordpress.com/2014/01/sundance-tv-logo.jpg"
 http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
@@ -243,7 +242,7 @@ http://185.246.209.109:8080/SYFY/index.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://www.pinclipart.com/picdir/middle/59-594989_tbs-tbs-logo-pink-clipart.png"
 http://185.246.209.109:8080/TBS/index.m3u8
-#EXTINF:-1 tvg-name="Turner Classic Movies" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/e0e2049e-1918-484a-8ca2-b983abcd3c08_48.png"
+#EXTINF:-1 tvg-name="Turner Classic Movies" tvg-logo="http://i.cdn.turner.com/v5cache/TCM/images/tcm-share-1200x630.png"
 http://185.246.209.109:8080/TCM/index.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-logo="http://logomanager.team-mediaportal.com/LogoThumbs/8f215460-48d5-4fcf-b656-0e514b53420e_48.png"
 http://80.80.160.168/live/2/live.m3u8
@@ -257,7 +256,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://185.246.209.109:8080/WGN/tracks-v1a1/index.m3u8
 
 # ### movie channels ### #
-#EXTINF:0 tvg-name="Flix" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/flix-logo-png-transparent.png"
+#EXTINF:0 tvg-name="Flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png"
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:0 tvg-name="Cinemax Moremax" tvg-logo="https://i.ytimg.com/vi/3SRNBPjZ0UE/hqdefault.jpg"
 http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
@@ -304,11 +303,11 @@ http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://afv.com/wp-content/uploads/2013/10/AFVIcon.png" group-title="National",AFV Clip Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
 
-#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/01/09/RickMorty2_Marathon_2.jpg" group-title="National",Rick And Morty 24/7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Rick_and_Morty_logo.png" group-title="National",Rick And Morty 24/7
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Smithsonian Panda Cam 1
+#EXTINF:-1 tvg-logo="https://media4.s-nbcnews.com/j/newscms/2016_36/1685951/ss-160826-twip-05_8cf6d4cb83758449fd400c7c3d71aa1f.fit-760w.jpg" group-title="CCTV",Smithsonian Panda Cam 1
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Smithsonian Panda Cam 2
+#EXTINF:-1 tvg-logo="https://media4.s-nbcnews.com/j/newscms/2016_36/1685951/ss-160826-twip-05_8cf6d4cb83758449fd400c7c3d71aa1f.fit-760w.jpg" group-title="CCTV",Smithsonian Panda Cam 2
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
