@@ -11,6 +11,8 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-name="ABC (5)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/f9bd4978-40ec-43f9-b3f9-cb8486a4fe46.png"
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-name="ABC (6)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/f9bd4978-40ec-43f9-b3f9-cb8486a4fe46.png"
+https://ul.cdn946.net:8443/hls/nkheg6dyg42.m3u8?s=MxkslKN9Qn2x8i0hJ8yqJQ&e=1569285539
 #EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png"
 https://adultswimhls-i.akamaihd.net/hls/live/238460-b/adultswim/main/1/master_Layer7.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-logo="https://fontmeme.com/images/adult-swim-media-logo.png"
@@ -45,6 +47,8 @@ https://api.locastnet.org/api/watch/stream/1062/43/-97/?token=eyJhbGciOiJIUzI1Ni
 https://api.locastnet.org/api/watch/stream/1047/44/-103/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
 #EXTINF:-1 tvg-name="CBS (7)" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg"
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 tvg-name="CBS (8)" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/cbs-logo.jpg"
+https://ul.cdn946.net:8443/hls/nkheg6dyg42.m3u8?s=slVm0FbnisONHl4L29VcGg&e=1569285612
 #EXTINF:-1 tvg-name="CBS Sports (1)" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png"
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 #EXTINF:-1 tvg-name="Cinemax Moremax" tvg-logo="https://i.ytimg.com/vi/3SRNBPjZ0UE/hqdefault.jpg"
@@ -87,7 +91,9 @@ http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
 http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Espnnews.png"
 http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
+#EXTINF:-1 tvg-name="ESPN (1)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
+https://ul.cdn946.net:8443/hls/2vewskxuho8rq.m3u8?s=b-o9rGXCoj6u-PFynlKDFA&e=1569285292
+#EXTINF:-1 tvg-name="ESPN (2)" tvg-logo="http://logomanager.team-mediaportal.com/Logos/c2bf2849-a004-4cc5-bf20-22d7c8db7e46.png"
 http://ok3.se:8000/pyXg169SIE/DkQRnoc7WR/269
 #EXTINF:-1 tvg-name="Fail Army" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png"
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
